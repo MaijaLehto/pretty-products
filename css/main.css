@@ -41,6 +41,7 @@ h2 {
   font-size: 2rem;
   text-align: center;
   color: #6f00e7;
+  padding-top: 1.5rem;
 }
 
 p {
@@ -48,6 +49,7 @@ p {
   color: #000;
   text-align: center;
   font-size: 1.4rem;
+  padding-bottom: 1.25rem;
 }
 
 .cart {
@@ -74,7 +76,8 @@ p {
 }
 
 .big {
-  width: 100%;
+  width: 71%;
+  margin: auto;
 }
 
 span {
