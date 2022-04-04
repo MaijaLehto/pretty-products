@@ -31,7 +31,6 @@ li {
   justify-content: flex-start;
   border: 3px solid #987ffa;
   border-radius: 3em;
-  padding: 1rem;
 }
 
 h2 {
@@ -40,21 +39,27 @@ h2 {
   color: #6f00e7,;
 }
 
-img {
-  width: 100%;
-  margin-bottom: 1.5rem;
-}
 
 p {
   margin: 0 0 auto;
   color: #000;
 }
 
-li a {
-  padding: .5em .75em .6em;
+.cart {
+  padding: .5em 1.5em .7em;
   margin-top: 1.5rem;
-  background-color: #623b0c;
+  background-color: #6f00e7;
+  border-color: #6f00e7;
   color: #fff;
-  border-radius: 8px;
+  border: none;
+  border-radius: 3em;
   text-decoration: none;
 }
+
+.fav, .share {
+  background-color: #fff;
+  border-color: #fff;
+  border: none;
+}
+
+button
